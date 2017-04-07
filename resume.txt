@@ -1,0 +1,28 @@
+1、精通前端HTML切片（DIV+CSS），JavaScript/Ajax/JQuery等相关技术
+2、精通PHP及了解主流MVC开发框架（如ThinkPHP），精通面向对象开发
+3、熟练运用开源系统 phpcms、dedecms、ecshop、discuz进行二次开发
+4、精通mysql及数据库性能优化，主从同步，读写分离、 memcache及NoSQL数据库redis
+5、熟悉搜索优化，熟练运用Coreseek + Sphinx中文检索引擎
+6、熟练使用linux基础命令，使用lnmp开发环境，了解lvs负载均衡+keeplive冗余技术
+7、了解模板分离技术，熟练运用smarty
+8、熟练使用svn协作开发，项目建立分支、合并及发布
+9、熟知微信及wap开发
+10、具备良好的代码编写习惯，代码结构清晰，命名规范，逻辑性强，代码冗余率低；
+11、拥有大型B2B平台开发经验。
+12、了解SOAP协议，熟练使用web service接口开发
+13、熟练使用photoshop切片及简单图片处理
+
+
+
+工作经历
+2013.7-至今 湖南慧业电商网络有限公司（晟通集团）
+从零开始搭建慧业网B2B电商平台，担任技术负责人完成框架选型、基础架构搭建、开发测试流程编写及所有新功能的需求讨论及核心功能开发及SVN版本的发布。
+完成慧业网的多次版本迭代开发，会员权限体系、招投标项目、配送中心项目、EAS询比价项目、铝产品撮合交易线上下单、确认合同、及在线支付（易付宝），电子签字（百成）、微信端公众号开发等等，主动承担解决核心功能业务；部门认定为问题对接人，积极对接协调人员解决内外部客户问题，问题处理及时率100%，并多次获得部门、外部业务单位书面表扬，获得集团“弗雷德”奖一次。
+
+
+1、脚本：php js jquery html div+css nodejs 
+2、数据库：mysql access mongodb redis memcache oracle SQLserver
+3、图片处理：photoshop
+4、办公软件：word excel wps 
+5、操作系统：linux 
+6、协作办公：svn
